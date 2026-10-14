@@ -51,7 +51,7 @@ The notebook should be consulted for the exact dataset columns, date range, data
 Daily_Sales_Prediction-LSTM-/
 │
 ├── Daily_sales_LSTM.ipynb
-├── daily_sales_lstm.csv
+├── data/daily_sales_lstm.csv
 └── README.md
 ```
 
