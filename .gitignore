@@ -1,0 +1,16 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary downloaded and extracted data
+electricity.zip
+electricity_data/
+
+# Environment variables
+.env
